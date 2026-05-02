@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي خذني معاك
+> طول الليل أنا بستناك
+> نار الحب في قلبي تقيد
+> شوقي لك عمال بيزيد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
