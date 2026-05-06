@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/khlas-kol-haga-rahet/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Khlas Kol Haga Rahet](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
